@@ -1,0 +1,11 @@
+name: Wolfpack-ai
+description: >
+  Wolfpack-ai is an AI-powered application prepared for compatibility with Codebases Jule.
+owner: Wolfwoofq
+repository: https://github.com/Wolfwoofq/Wolfpack-ai
+language: Python
+compatibility:
+  codebases_jule: true
+entrypoint: main.py
+version: 1.0.0
+created: 2025-11-13
